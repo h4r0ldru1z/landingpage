@@ -3,7 +3,7 @@ import PropType from "prop-types";
 
 const Jumbotron = () => {
 	return (
-		<div className="jumbotron bg-primary">
+		<div className="jumbotron bg-secondary">
       <h1 className="display-4 text-center fw-bold fst-italic">Buenas y Santas las tengas</h1>
       <p className="lead text-center">
         Vamos a definir esto de una vez. No solo somos Geeks por programar, sino que también lo somos porque algunos amamos el anime. 
