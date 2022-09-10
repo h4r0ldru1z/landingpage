@@ -2,9 +2,9 @@ import React from "react";
 import ReactDOM from "react-dom";
 import PropType from "prop-types";
 import Navbar from "./component/navbar.jsx";
-import  Jumbotron  from "./component/jumbotron.jsx";
-import  Cards from "./component/cards.jsx";
-import  Footer from "./component/footer.jsx";
+import Jumbotron from "./component/Jumbotron.jsx";
+import Cards from "./component/cards.jsx";
+import Footer from "./component/footer.jsx";
 
 function App() {
   let img = [
